@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrackXpress-testsv/static/css/main.b627e1e2.css",
+    "main.js": "/TrackXpress-testsv/static/js/main.a067684c.js",
+    "index.html": "/TrackXpress-testsv/index.html",
+    "main.b627e1e2.css.map": "/TrackXpress-testsv/static/css/main.b627e1e2.css.map",
+    "main.a067684c.js.map": "/TrackXpress-testsv/static/js/main.a067684c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b627e1e2.css",
+    "static/js/main.a067684c.js"
+  ]
+}
